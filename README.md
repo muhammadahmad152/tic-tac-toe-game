@@ -90,7 +90,7 @@ Muhammad Ahmad Khan
 
 Aspiring Software Engineer | Full-Stack Developer
 
-🔗 GitHub: muhammadahmad152
+🔗 GitHub: https://github.com/muhammadahmad152/tic-tac-toe-game
 
 📄 License
 
